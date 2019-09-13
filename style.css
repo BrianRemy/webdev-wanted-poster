@@ -1,0 +1,9 @@
+div {
+	text-align: center;
+	
+	overflow: hidden;
+	border: 2px solid black;
+	width: 800px;
+	height: 1100px;
+	background-image: url("https://i.pinimg.com/originals/ab/74/7e/ab747e3e22c18b7e174b3af84ad58e55.png");
+}
